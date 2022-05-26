@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_a10064
 hello saurav and shruti here working on git checking branching and merging
+=======
+new feature was added in branch saurav1
+>>>>>>> .merge_file_a13680
